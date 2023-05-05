@@ -10,6 +10,7 @@ import StickerBook from './src/Components/StickerBook/StickerBook';
 
 const Stack = createNativeStackNavigator();
 
+// An Education App
 export default function App() {
   return (
     <NavigationContainer>

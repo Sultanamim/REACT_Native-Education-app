@@ -1,0 +1,13 @@
+          
+     To see your project in your android device
+
+
+
+
+              1) open the project on visual studio
+              2) open the terminal and type 'npm install' and then 
+                  'npm start'
+              3) Install 'Expo go' app from play store on your android device
+              4) open the 'Expo go' app and scan the QR code from editor terminal
+              5) Then you can see your project on your device
+              
